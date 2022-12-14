@@ -14,7 +14,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[myspace WiKi\] ](#-myspace-wiki-)
+- [📖 \[Math Magicians\] ](#-math-magicians-)
   - [🛠 Built With React](#-built-with-react)
     - [Tech Stack Web Pack](#tech-stack-web-pack)
     - [Key Features ](#key-features-)
@@ -36,7 +36,7 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [myspace WiKi] <a name="about-project"></a>
+# 📖 [Math Magicians] <a name="about-project"></a>
 
 **[Math-Magicians]**  is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
 - Make simple calculations.
@@ -75,7 +75,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://jash-debug.github.io/math-magicians)
+- [Live Demo Link](https://jash-debug.github.io/math-magicians/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
