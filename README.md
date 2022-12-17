@@ -155,7 +155,6 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Make simple calculations]**
 - [ ] **[Read a random math-related quote]**
 
 
