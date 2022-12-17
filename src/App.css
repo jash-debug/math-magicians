@@ -1,3 +1,45 @@
 .App {
-	color: red;
+  color: red;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
+#calculator {
+  width: 30vw;
+  height: 50vh;
+  background-color: #e0e0e0;
+}
+
+.screen {
+  width: 100%;
+  height: 10%;
+  background-color: #858694;
+  text-align: right;
+  color: white;
+  font-size: larger;
+}
+
+#numbers {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  height: 90%;
+  gap: 2px;
+}
+
+.zero {
+  grid-column: 1/3;
+}
+
+button:focus {
+  background-color: #f4e9e9;
+}
+
+.special {
+  background-color: #f5913e;
 }
