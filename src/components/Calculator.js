@@ -43,7 +43,7 @@ class Calculator extends React.Component {
           <button type="button" id="2" value="2" onClick={(e) => this.handleBtn(e.target.id)}>2</button>
           <button type="button" id="3" value="3" onClick={(e) => this.handleBtn(e.target.id)}>3</button>
           <button type="button" id="+" value="+" className="special" onClick={(e) => this.handleBtn(e.target.id)}>+</button>
-          <button type="button" id="3" value="3" className="zero" onClick={(e) => this.handleBtn(e.target.id)}>0</button>
+          <button type="button" id="0" value="0" className="zero" onClick={(e) => this.handleBtn(e.target.id)}>0</button>
           <button type="button" id="." value="." onClick={(e) => this.handleBtn(e.target.id)}>.</button>
           <button type="button" id="=" value="=" className="special" onClick={(e) => this.handleBtn(e.target.id)}>=</button>
         </div>
