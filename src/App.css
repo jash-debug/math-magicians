@@ -22,7 +22,14 @@
   background-color: #858694;
   text-align: right;
   color: white;
-  font-size: larger;
+  font-size: x-large;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.screenvalue {
+  padding-right: 5px ;
 }
 
 #numbers {
